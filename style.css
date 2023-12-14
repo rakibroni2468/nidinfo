@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+    margin: 20px;
+}
+
+h1 {
+    color: #333; /* Heading color */
+}
+
+p {
+    color: #555; /* Paragraph text color */
+    margin-bottom: 20px; /* Bottom margin for paragraphs */
+}
+
+button {
+    display: block;
+    margin: auto;
+    background-color: #4CAF50; /* Button background color */
+    color: white; /* Button text color */
+    padding: 10px 20px; /* Button padding */
+    font-size: 16px; /* Button text size */
+    border: none; /* No border */
+    border-radius: 5px; /* Button border radius */
+    cursor: pointer; /* Cursor style on hover */
+    text-align: center;
+}
+
+button:hover {
+    background-color: #45a049; /* Button background color on hover */
+}
+
+.response h2 {
+    color: #000 !important;
+    font-size: 25px;
+}
